@@ -1,0 +1,7 @@
+#Wed Sep 28 14:48:13 EEST 2016
+base.0=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d971b9795c457e64a2da1fd4e66352680971721c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f561d3e705b7c91aee4f66783e8f1d410dc509a1\\classes.dex
+base.1=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f561d3e705b7c91aee4f66783e8f1d410dc509a1
+file.0=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d971b9795c457e64a2da1fd4e66352680971721c\\classes.dex

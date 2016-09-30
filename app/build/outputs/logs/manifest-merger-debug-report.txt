@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:15:5-51:19
+	android:label
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:16:9-59
+activity#com.murach.newsreader.ItemsActivity
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:label
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:23:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.murach.newsreader.ItemActivity
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:31:13-62
+service#com.murach.newsreader.NewsReaderService
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:34:9-37:19
+	android:exported
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:35:13-46
+receiver#com.murach.newsreader.BootReceiver
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:39:19-46
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:40:13-42:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:41:17-79
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:41:25-76
+receiver#com.murach.newsreader.ConnectivityReceiver
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:44:9-49:20
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:44:19-54
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:45:13-48:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:47:17-79
+	android:name
+		ADDED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml:47:25-76
+uses-sdk
+INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\Android\NewsReader\app\src\main\AndroidManifest.xml

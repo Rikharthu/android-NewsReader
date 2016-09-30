@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\Android\NewsReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e221770a75a91782896b1554ac075ae50d8d950a">
+        <dex dex="C:\Workspace\Android\NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f561d3e705b7c91aee4f66783e8f1d410dc509a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\Android\NewsReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="533ceab24208407584f86d161506794b6f54f8b5">
+        <dex dex="C:\Workspace\Android\NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d971b9795c457e64a2da1fd4e66352680971721c\classes.dex" />
+    </item>
+
+</items>

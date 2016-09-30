@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Workspace\\Android\\NewsReader\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_refresh.png",
+        "source": "C:\\Workspace\\Android\\NewsReader\\app\\src\\main\\res\\drawable-xhdpi\\ic_refresh.png"
+    }
+]

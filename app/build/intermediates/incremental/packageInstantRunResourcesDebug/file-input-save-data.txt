@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Sep 28 11:38:49 EEST 2016
+2.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listview_item.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_items.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_refresh.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_item.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_items.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Workspace\\Android\\NewsReader\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE
